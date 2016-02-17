@@ -1,0 +1,9 @@
+main: com.rio.testing.GearTesting
+version: 1.0
+name: ItemTesting
+
+commands:
+  gimme:
+    description: Give you an the specified item.
+  itemlist:
+    description: list the available items.
